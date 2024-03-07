@@ -1,5 +1,5 @@
 # Duales Studium Repository - TINF23B5
-#IM AUFBAU!
+REPO NOCH IM AUFBAU!
 ---
 ### Beschreibung
 > Dieses GitHub-Repository dient als Share von Notizen und Aufgaben während des Studiums.
