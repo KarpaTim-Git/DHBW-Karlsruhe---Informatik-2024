@@ -8,12 +8,12 @@ Hier liegt alles von **Lösungen zu Übungsaufgaben** bis hin zu **Zusammenfassu
 
 ### Ordnerstruktur
 ```
--Semester:
-    -Lectures :
+-Semester
+    -Lectures
         -Slides 
         -Notes
         -Exercises
-- Tipps & Tricks:
+- Tipps & Tricks
 ```
 
 
