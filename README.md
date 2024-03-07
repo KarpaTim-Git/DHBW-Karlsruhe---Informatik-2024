@@ -13,7 +13,7 @@ Hier liegt alles von **Lösungen zu Übungsaufgaben** bis hin zu **Zusammenfassu
         -Slides 
         -Notes
         -Exercises
-- Tipps & Tricks
+-Tipps & Tricks
 ```
 
 
